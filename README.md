@@ -17,3 +17,5 @@ This will download all of the papers I have. You can of course just selectively 
 To stay up to date, just run
 
     git annex sync origin
+
+Alternatively, if you are running the git annex assistant, click on the top right, choose `add another local repository` and select the directory you cloned the repo into.  It will then be automatically kept up to date by the assistant
