@@ -1,1 +1,1 @@
-7af6d260-e83c-4f10-99dc-cb5e5035ded3 bucket=ocharles-papers datacenter=US encryption=none host=s3.us.archive.org mungekeys=ia name=ia port=80 storageclass=STANDARD type=S3 x-amz-auto-make-bucket=1 timestamp=1401924016.638772s
+7af6d260-e83c-4f10-99dc-cb5e5035ded3 bucket=ocharles-papers datacenter=US encryption=none host=s3.us.archive.org mungekeys=ia name=ia port=80 storageclass=STANDARD type=S3 x-amz-auto-make-bucket=1 timestamp=1455572800.763437s
