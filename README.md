@@ -9,7 +9,7 @@ Using this
 To use this repository you need to have Git and Git Annex installed. Then:
 
     git clone git://github.com/ocharles/papers
-    git config remote.origin.annex-sync false
+    git config remote.origin.annex-readonly true
     git annex init local-copy
     git annex get .
 
